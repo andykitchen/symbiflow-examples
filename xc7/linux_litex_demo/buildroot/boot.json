@@ -1,0 +1,6 @@
+{
+    "Image": "0xc0000000",
+    "rootfs.cpio": "0xc0800000",
+    "rv32.dtb": "0xc1000000",
+    "emulator.bin": "0x50000000"
+}
